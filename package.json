@@ -5,7 +5,8 @@
   "main": "models/vendor.js",
   "scripts": {
     "test": "jest --coverage --verbose",
-    "lint": "eslint __tests__/ models/"
+    "lint": "eslint __tests__/ models/",
+    "start": "node models/vendor"
   },
   "repository": {
     "type": "git",
