@@ -35,7 +35,9 @@ setup a system of events and handlers,with the intent being to change out the ev
 
 ## Phase 2
 
-To Start the application just type in your cmd, on each folder
+To Start the application just type in your cmd, on each folder in this order
+
+- caps --> vendor --> driver
 
 ```cmd
 npm start
